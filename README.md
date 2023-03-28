@@ -1,4 +1,4 @@
-<img alt="React Vite Tailwind Boilerplate" src="" />
+<img alt="React Vite Tailwind Boilerplate" src="https://github.com/xNoJustice/react-password-validation-check-app/blob/447142100b885d53641eda7d5c12c69761b86bf1/App.png" />
 
 # React Vite Tailwind Boilerplate
 
